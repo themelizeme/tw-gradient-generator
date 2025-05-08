@@ -10,5 +10,4 @@ Quick start:
 yarn install
 yarn dev
 ```
-
-
+Go to http://localhost:5173/
